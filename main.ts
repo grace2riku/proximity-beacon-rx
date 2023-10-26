@@ -7,3 +7,4 @@ radio.onReceivedString(function (receivedString) {
 })
 let signal = 0
 radio.setGroup(1)
+basic.showString("R")
